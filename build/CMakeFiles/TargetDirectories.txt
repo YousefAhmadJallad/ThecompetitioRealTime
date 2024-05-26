@@ -1,0 +1,3 @@
+/home/root24/Downloads/4330/Projects/Project1/build/CMakeFiles/rebuild_cache.dir
+/home/root24/Downloads/4330/Projects/Project1/build/CMakeFiles/my_opengl_project1.dir
+/home/root24/Downloads/4330/Projects/Project1/build/CMakeFiles/edit_cache.dir

@@ -1,0 +1,1 @@
+/usr/bin/gcc -g   CMakeFiles/my_opengl_project1.dir/parent.c.o  -o my_opengl_project1 -lglfw 

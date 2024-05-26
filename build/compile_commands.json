@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/root24/Downloads/4330/Projects/Project1/build",
+  "command": "/usr/bin/gcc   -g   -o CMakeFiles/my_opengl_project1.dir/parent.c.o   -c /home/root24/Downloads/4330/Projects/Project1/parent.c",
+  "file": "/home/root24/Downloads/4330/Projects/Project1/parent.c"
+}
+]
